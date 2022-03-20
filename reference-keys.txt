@@ -1,0 +1,17 @@
+fig:unnamed-chunk-6
+introduction-and-theory-of-change
+cultivating-a-leadership-philosophy
+transforming-self-and-interpersonal-relationships
+transforming-teams-and-collaboratives
+transforming-organizations-and-communities
+scientific-problem-solving
+lean-management-and-production
+results-based-accountability
+collective-impact
+behavioral-economics
+decision-quality-requirements
+structured-decision-making
+thinking-with-bayesian-networks
+implementation-science
+population-health-data-science
+scientific-computing-with-julia-or-r
